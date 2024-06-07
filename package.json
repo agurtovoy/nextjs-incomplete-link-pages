@@ -22,5 +22,6 @@
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.3"
-  }
+  },
+  "packageManager": "pnpm@7.26.3+sha1.68176b2648ccdef8af4dc767b1eeeefe04666871"
 }
